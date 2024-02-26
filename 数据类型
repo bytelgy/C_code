@@ -1,0 +1,17 @@
+#define _CRT_SECURE_NO_WARNINGS
+int main()
+{
+	//字符类型--1byte
+	char ch = 'a';
+	//整形--4byte
+	int age = 20;
+	//短整型--2byte
+	short num = 10;
+	//长整型——long--4byte
+	//更长的整形——long long--8byte
+	//单精度浮点数--4byte
+	float weight = 55.5;
+	//双精度浮点数--8byte
+	double d = 0.0;
+	return 0;
+}
